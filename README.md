@@ -7,7 +7,5 @@ A Full-Stack engineer who is passionate about building responsive and accessible
 - 😄 Pronouns: He/Him
 
 <div>
-  <code>
     <img height="20" src="https://vuejsnation.com/images/illustration-vue.png">
-  </code>
 </div>
