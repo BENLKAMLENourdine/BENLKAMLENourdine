@@ -8,7 +8,7 @@ My expertise lies in building robust, maintainable applications across the stack
 
 Currently exploring the intersection of **AI engineering and full-stack development**, building AI-powered applications and integrating intelligent capabilities into real-world software products.
 
-- 🌍 Based in Morocco | Canadian Permanent Resident
+- 🌍 Based in Morocco
 - 💻 6+ years building production-grade software
 - 🏗️ Passionate about scalable architectures and engineering best practices
 - 🤖 Exploring AI-native development, LLMs, and AI-powered applications
